@@ -1,0 +1,91 @@
+{
+    "taskArray" : [
+        {
+            "taskName": "Viết những trang cần thiết cho web bán hàng",
+            "category": "Bài tập HTML/CSS",
+            "startDate": "26/4/2025",
+            "endDate": "27/4/2025",
+            "status": "Hoàn thiện"
+        }, 
+
+        {
+            "taskName": "Tạo mẫu các trang chính của web",
+            "category": "Bài tập HTML/CSS",
+            "startDate": "3/5/2025",
+            "endDate": "4/5/2025",
+            "status": "Hoàn thiện"
+        },
+
+        {
+            "taskName": "Cập nhật trang info product, all product và cart",
+            "category": "Bài tập HTML/CSS",
+            "startDate": "4/5/2025",
+            "endDate": "10/5/2025",
+            "status": "Hoàn thiện"
+        },
+
+        {
+            "taskName": "Xây dựng react goods management",
+            "category": "Bài tập React",
+            "startDate": "11/5/2025",
+            "endDate": "17/5/2025",
+            "status": "Chưa hoàn thiện"
+        },
+
+        {
+            "taskName": "Xây dựng react todolist",
+            "category": "Bài tập React",
+            "startDate": "11/5/2025",
+            "endDate": "17/5/2025",
+            "status": "Chưa hoàn thiện"
+        },
+
+        {
+            "taskName": "Xây dựng react employeer management",
+            "category": "Bài tập React",
+            "startDate": "11/5/2025",
+            "endDate": "17/5/2025",
+            "status": "Chưa hoàn thiện"
+        },
+
+        {
+            "taskName": "Xây dựng react company management",
+            "category": "Bài tập React",
+            "startDate": "11/5/2025",
+            "endDate": "17/5/2025",
+            "status": "Chưa hoàn thiện"
+        },
+
+        {
+            "taskName": "Tiếp tục xây dựng web bán hàng Tiến Bịp Mobile",
+            "category": "Bài tập HTML/CSS",
+            "startDate": "11/5/2025",
+            "endDate": "17/5/2025",
+            "status": "Chưa hoàn thiện"
+        },
+
+        {
+            "taskName": "Xây dựng web bán đồ thể thao",
+            "category": "Bài tập React",
+            "startDate": "11/5/2025",
+            "endDate": "17/5/2025",
+            "status": "Chưa hoàn thiện"
+        },
+
+        {
+            "taskName": "Xây dựng react shop management",
+            "category": "Bài tập React",
+            "startDate": "11/5/2025",
+            "endDate": "17/5/2025",
+            "status": "Chưa hoàn thiện"
+        },
+
+        {
+            "taskName": "Xây dựng react student management",
+            "category": "Bài tập React",
+            "startDate": "11/5/2025",
+            "endDate": "17/5/2025",
+            "status": "Chưa hoàn thiện"
+        }
+    ]
+}

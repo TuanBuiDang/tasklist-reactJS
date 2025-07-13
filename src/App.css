@@ -1,0 +1,89 @@
+.App {
+  text-align: center;
+  
+}
+
+.all-component-content {
+  display: flex;
+}
+
+.task-table-component {
+  justify-content: center;
+}
+
+.task-table {
+  border: 1px solid #706d6d;
+  justify-content: center;
+  align-items: center;
+  margin-left: 50px;
+  padding: 3px;
+}
+
+thead {
+  background-color: #eff327;
+}
+
+.task-input-form {
+  border: 1px solid #706d6d;
+  justify-content: center;
+  align-items: center;
+  border-radius: 4px;
+  box-shadow: 1px;
+  padding: 3px;
+}
+
+.input-data {
+  margin: 3px;
+  padding: 3px;
+}
+
+.input-data-form {
+  margin: 3px;
+  padding: 10px;
+  border-radius: 6px;
+}
+
+.btn {
+  border: 1px solid #706d6d;
+  background-color: yellow;
+  padding: 10px;
+  width: 100px;
+  margin: 5px;
+}
+
+.btn :hover {
+  color: white;
+  background-color: aqua;
+}
+
+.header-introduction {
+  background-color: #eff327;
+  margin-bottom: 60px;
+  padding: 3px;
+}
+
+.add-task-component {
+  margin: 5px;
+  padding: 3px;
+}
+
+.edit-task-component {
+  margin: 5px;
+  padding: 3px;
+}
+
+.icon-button {
+  cursor: pointer;
+}
+
+.header-component {
+  padding: 5px;
+}
+
+.thead-task th {
+  padding: 5px;
+}
+
+.tbody-task td {
+  padding: 5px;
+}
